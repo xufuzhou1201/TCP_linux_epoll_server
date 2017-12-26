@@ -1,0 +1,3 @@
+https://github.com/lihaitao8233/TCP_linux_epoll_server
+https://github.com/lihaitao8233/TCPServer_windows_iocp
+make前把debug.mak文件里面的LIBRARY_DIRS设置为libTCPClient.a放置的路径
